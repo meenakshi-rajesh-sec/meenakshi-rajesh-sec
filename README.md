@@ -10,21 +10,21 @@ Cybersecurity undergraduate with hands-on experience in web exploitation, AI-dri
 
 ## Skills
 
-| Skill | Associated Project | TryHackMe Lab |
-| --- | --- | --- |
-| XSS Attack Simulation and Cookie Theft | Multi-Stage XSS Attack Simulation | [OWASP Juice Shop](https://tryhackme.com/room/owaspjuiceshop) |
-| Session Hijacking and Web Application Exploitation | Multi-Stage XSS Attack Simulation | [OWASP Top 10](https://tryhackme.com/room/owasptop10) |
-| Input Sanitization and Secure Coding | Multi-Stage XSS Attack Simulation | [Walking An Application](https://tryhackme.com/room/walkinganapplication) |
-| ML-Based Intrusion Detection | <a href="https://github.com/meenakshi-rajesh-sec/AITDS-AI-Driven-Threat-Detection-System">AITDS-AI-Driven-Threat-Detection-System</a> | [Vulnerabilities 101](https://tryhackme.com/room/vulnerabilities101) |
-| Real-Time Packet Capture and Feature Engineering | <a href="https://github.com/meenakshi-rajesh-sec/AITDS-AI-Driven-Threat-Detection-System">AITDS-AI-Driven-Threat-Detection-System</a> | [Wireshark: Packet Operations](https://tryhackme.com/room/wiresharkpacketsandprotocols) |
-| Anomaly Detection and SOC-Style Alert Generation | <a href="https://github.com/meenakshi-rajesh-sec/AITDS-AI-Driven-Threat-Detection-System">AITDS-AI-Driven-Threat-Detection-System</a> | [Nmap](https://tryhackme.com/room/furthernmap) |
-| File System Monitoring and Exfiltration Detection | <a href="https://github.com/meenakshi-rajesh-sec/EXFILGUARD-File-Exfiltration-Detection-System">EXFILGUARD-File-Exfiltration-Detection-System</a> | [OHSint](https://tryhackme.com/room/ohsint) |
-| Host-Based Dual-Layer Intrusion Detection |  <a href="https://github.com/meenakshi-rajesh-sec/EXFILGUARD-File-Exfiltration-Detection-System">EXFILGUARD-File-Exfiltration-Detection-System</a> | [Google Dorking](https://tryhackme.com/room/googledorking) |
-| Real-Time Alerting and Forensic Logging |  <a href="https://github.com/meenakshi-rajesh-sec/EXFILGUARD-File-Exfiltration-Detection-System">EXFILGUARD-File-Exfiltration-Detection-System</a> | [HTTP in Detail](https://tryhackme.com/room/httpindetail) |
+| Skill | Associated Project | 
+| --- | --- | 
+| XSS Attack Simulation and Cookie Theft | <a href="https://github.com/meenakshi-rajesh-sec/Multi-Stage-XSS-Attack-Simulation">Multi-Stage XSS Attack Simulation</a> | 
+| Session Hijacking and Web Application Exploitation | <a href="https://github.com/meenakshi-rajesh-sec/Multi-Stage-XSS-Attack-Simulation">Multi-Stage XSS Attack Simulation</a> | 
+| Input Sanitization and Secure Coding | <a href="https://github.com/meenakshi-rajesh-sec/Multi-Stage-XSS-Attack-Simulation">Multi-Stage XSS Attack Simulation</a> | 
+| ML-Based Intrusion Detection | <a href="https://github.com/meenakshi-rajesh-sec/AITDS-AI-Driven-Threat-Detection-System">AITDS-AI-Driven-Threat-Detection-System</a> | 
+| Real-Time Packet Capture and Feature Engineering | <a href="https://github.com/meenakshi-rajesh-sec/AITDS-AI-Driven-Threat-Detection-System">AITDS-AI-Driven-Threat-Detection-System</a> |
+| Anomaly Detection and SOC-Style Alert Generation | <a href="https://github.com/meenakshi-rajesh-sec/AITDS-AI-Driven-Threat-Detection-System">AITDS-AI-Driven-Threat-Detection-System</a> |
+| File System Monitoring and Exfiltration Detection | <a href="https://github.com/meenakshi-rajesh-sec/EXFILGUARD-File-Exfiltration-Detection-System">EXFILGUARD-File-Exfiltration-Detection-System</a> |
+| Host-Based Dual-Layer Intrusion Detection |  <a href="https://github.com/meenakshi-rajesh-sec/EXFILGUARD-File-Exfiltration-Detection-System">EXFILGUARD-File-Exfiltration-Detection-System</a> | 
+| Real-Time Alerting and Forensic Logging |  <a href="https://github.com/meenakshi-rajesh-sec/EXFILGUARD-File-Exfiltration-Detection-System">EXFILGUARD-File-Exfiltration-Detection-System</a> |
 | Linux Firewall Configuration with iptables | <a href="https://github.com/meenakshi-rajesh-sec/Cryptography-Firewall-Lab">Cryptography-Firewall-Lab</a> | [Linux Privilege Escalation](https://tryhackme.com/room/linuxprivesc) |
-| Symmetric and Asymmetric Cryptography | <a href="https://github.com/meenakshi-rajesh-sec/Cryptography-Firewall-Lab">Cryptography-Firewall-Lab</a> | [Encryption - Crypto 101](https://tryhackme.com/room/encryptioncrypto101) |
-| Password Security and Breach Intelligence | <a href="https://github.com/meenakshi-rajesh-sec/Cryptography-Firewall-Lab">Cryptography-Firewall-Lab</a> | [Crack the Hash](https://tryhackme.com/room/crackthehash) |
-| Threat Intelligence and Case Study Research | <a href="https://github.com/meenakshi-rajesh-sec/Cryptography-Firewall-Lab">Cryptography-Firewall-Lab</a> | [Intro to Research](https://tryhackme.com/room/introtoresearch) |
+| Symmetric and Asymmetric Cryptography | <a href="https://github.com/meenakshi-rajesh-sec/Cryptography-Firewall-Lab">Cryptography-Firewall-Lab</a> |
+| Password Security and Breach Intelligence | <a href="https://github.com/meenakshi-rajesh-sec/Cryptography-Firewall-Lab">Cryptography-Firewall-Lab</a> | 
+| Threat Intelligence and Case Study Research | <a href="https://github.com/meenakshi-rajesh-sec/Cryptography-Firewall-Lab">Cryptography-Firewall-Lab</a> | 
 
 ## Tools
 
@@ -83,7 +83,7 @@ Languages
 
 ## Projects
 
-- Multi-Stage XSS Attack Simulation
+- <a href="https://github.com/meenakshi-rajesh-sec/Multi-Stage-XSS-Attack-Simulation">Multi-Stage XSS Attack Simulation</a>
 - <a href="https://github.com/meenakshi-rajesh-sec/AITDS-AI-Driven-Threat-Detection-System">AITDS-AI-Driven-Threat-Detection-System</a>
 -  <a href="https://github.com/meenakshi-rajesh-sec/EXFILGUARD-File-Exfiltration-Detection-System">EXFILGUARD-File-Exfiltration-Detection-System</a>
 - <a href="https://github.com/meenakshi-rajesh-sec/Cryptography-Firewall-Lab">Cryptography-Firewall-Lab</a>
