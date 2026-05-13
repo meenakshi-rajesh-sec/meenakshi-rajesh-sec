@@ -21,10 +21,10 @@ Cybersecurity undergraduate with hands-on experience in web exploitation, AI-dri
 | File System Monitoring and Exfiltration Detection | <a href="https://github.com/meenakshi-rajesh-sec/EXFILGUARD-File-Exfiltration-Detection-System">EXFILGUARD-File-Exfiltration-Detection-System</a> | [OHSint](https://tryhackme.com/room/ohsint) |
 | Host-Based Dual-Layer Intrusion Detection |  <a href="https://github.com/meenakshi-rajesh-sec/EXFILGUARD-File-Exfiltration-Detection-System">EXFILGUARD-File-Exfiltration-Detection-System</a> | [Google Dorking](https://tryhackme.com/room/googledorking) |
 | Real-Time Alerting and Forensic Logging |  <a href="https://github.com/meenakshi-rajesh-sec/EXFILGUARD-File-Exfiltration-Detection-System">EXFILGUARD-File-Exfiltration-Detection-System</a> | [HTTP in Detail](https://tryhackme.com/room/httpindetail) |
-| Linux Firewall Configuration with iptables | Cryptography and Firewall Lab | [Linux Privilege Escalation](https://tryhackme.com/room/linuxprivesc) |
-| Symmetric and Asymmetric Cryptography | Cryptography and Firewall Lab | [Encryption - Crypto 101](https://tryhackme.com/room/encryptioncrypto101) |
-| Password Security and Breach Intelligence | Cryptography and Firewall Lab | [Crack the Hash](https://tryhackme.com/room/crackthehash) |
-| Threat Intelligence and Case Study Research | Cryptography and Firewall Lab | [Intro to Research](https://tryhackme.com/room/introtoresearch) |
+| Linux Firewall Configuration with iptables | <a href="https://github.com/meenakshi-rajesh-sec/Cryptography-Firewall-Lab">Cryptography-Firewall-Lab</a> | [Linux Privilege Escalation](https://tryhackme.com/room/linuxprivesc) |
+| Symmetric and Asymmetric Cryptography | <a href="https://github.com/meenakshi-rajesh-sec/Cryptography-Firewall-Lab">Cryptography-Firewall-Lab</a> | [Encryption - Crypto 101](https://tryhackme.com/room/encryptioncrypto101) |
+| Password Security and Breach Intelligence | <a href="https://github.com/meenakshi-rajesh-sec/Cryptography-Firewall-Lab">Cryptography-Firewall-Lab</a> | [Crack the Hash](https://tryhackme.com/room/crackthehash) |
+| Threat Intelligence and Case Study Research | <a href="https://github.com/meenakshi-rajesh-sec/Cryptography-Firewall-Lab">Cryptography-Firewall-Lab</a> | [Intro to Research](https://tryhackme.com/room/introtoresearch) |
 
 ## Tools
 
@@ -86,4 +86,4 @@ Languages
 - Multi-Stage XSS Attack Simulation
 - AITDS — AI-Driven Threat Detection System
 -  <a href="https://github.com/meenakshi-rajesh-sec/EXFILGUARD-File-Exfiltration-Detection-System">EXFILGUARD-File-Exfiltration-Detection-System</a>
-- Cryptography and Firewall Lab
+- <a href="https://github.com/meenakshi-rajesh-sec/Cryptography-Firewall-Lab">Cryptography-Firewall-Lab</a>
