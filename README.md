@@ -18,9 +18,9 @@ Cybersecurity undergraduate with hands-on experience in web exploitation, AI-dri
 | ML-Based Intrusion Detection | AITDS — AI-Driven Threat Detection System | [Vulnerabilities 101](https://tryhackme.com/room/vulnerabilities101) |
 | Real-Time Packet Capture and Feature Engineering | AITDS — AI-Driven Threat Detection System | [Wireshark: Packet Operations](https://tryhackme.com/room/wiresharkpacketsandprotocols) |
 | Anomaly Detection and SOC-Style Alert Generation | AITDS — AI-Driven Threat Detection System | [Nmap](https://tryhackme.com/room/furthernmap) |
-| File System Monitoring and Exfiltration Detection | ExfilGuard — File Exfiltration Detection System | [OHSint](https://tryhackme.com/room/ohsint) |
-| Host-Based Dual-Layer Intrusion Detection | ExfilGuard — File Exfiltration Detection System | [Google Dorking](https://tryhackme.com/room/googledorking) |
-| Real-Time Alerting and Forensic Logging | ExfilGuard — File Exfiltration Detection System | [HTTP in Detail](https://tryhackme.com/room/httpindetail) |
+| File System Monitoring and Exfiltration Detection | <a href="https://github.com/meenakshi-rajesh-sec/EXFLGUARD">EXFLGUARD</a> | [OHSint](https://tryhackme.com/room/ohsint) |
+| Host-Based Dual-Layer Intrusion Detection | <a href="https://github.com/meenakshi-rajesh-sec/EXFLGUARD">EXFLGUARD</a> | [Google Dorking](https://tryhackme.com/room/googledorking) |
+| Real-Time Alerting and Forensic Logging | <a href="https://github.com/meenakshi-rajesh-sec/EXFLGUARD">EXFLGUARD</a> | [HTTP in Detail](https://tryhackme.com/room/httpindetail) |
 | Linux Firewall Configuration with iptables | Cryptography and Firewall Lab | [Linux Privilege Escalation](https://tryhackme.com/room/linuxprivesc) |
 | Symmetric and Asymmetric Cryptography | Cryptography and Firewall Lab | [Encryption - Crypto 101](https://tryhackme.com/room/encryptioncrypto101) |
 | Password Security and Breach Intelligence | Cryptography and Firewall Lab | [Crack the Hash](https://tryhackme.com/room/crackthehash) |
@@ -85,5 +85,5 @@ Languages
 
 - Multi-Stage XSS Attack Simulation
 - AITDS — AI-Driven Threat Detection System
-- ExfilGuard — File Exfiltration Detection System
+- <a href="https://github.com/meenakshi-rajesh-sec/EXFLGUARD">EXFLGUARD</a>
 - Cryptography and Firewall Lab
