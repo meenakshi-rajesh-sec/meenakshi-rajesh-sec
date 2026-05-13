@@ -15,9 +15,9 @@ Cybersecurity undergraduate with hands-on experience in web exploitation, AI-dri
 | XSS Attack Simulation and Cookie Theft | Multi-Stage XSS Attack Simulation | [OWASP Juice Shop](https://tryhackme.com/room/owaspjuiceshop) |
 | Session Hijacking and Web Application Exploitation | Multi-Stage XSS Attack Simulation | [OWASP Top 10](https://tryhackme.com/room/owasptop10) |
 | Input Sanitization and Secure Coding | Multi-Stage XSS Attack Simulation | [Walking An Application](https://tryhackme.com/room/walkinganapplication) |
-| ML-Based Intrusion Detection | AITDS — AI-Driven Threat Detection System | [Vulnerabilities 101](https://tryhackme.com/room/vulnerabilities101) |
-| Real-Time Packet Capture and Feature Engineering | AITDS — AI-Driven Threat Detection System | [Wireshark: Packet Operations](https://tryhackme.com/room/wiresharkpacketsandprotocols) |
-| Anomaly Detection and SOC-Style Alert Generation | AITDS — AI-Driven Threat Detection System | [Nmap](https://tryhackme.com/room/furthernmap) |
+| ML-Based Intrusion Detection | <a href="https://github.com/meenakshi-rajesh-sec/AITDS-AI-Driven-Threat-Detection-System">AITDS-AI-Driven-Threat-Detection-System</a> | [Vulnerabilities 101](https://tryhackme.com/room/vulnerabilities101) |
+| Real-Time Packet Capture and Feature Engineering | <a href="https://github.com/meenakshi-rajesh-sec/AITDS-AI-Driven-Threat-Detection-System">AITDS-AI-Driven-Threat-Detection-System</a> | [Wireshark: Packet Operations](https://tryhackme.com/room/wiresharkpacketsandprotocols) |
+| Anomaly Detection and SOC-Style Alert Generation | <a href="https://github.com/meenakshi-rajesh-sec/AITDS-AI-Driven-Threat-Detection-System">AITDS-AI-Driven-Threat-Detection-System</a> | [Nmap](https://tryhackme.com/room/furthernmap) |
 | File System Monitoring and Exfiltration Detection | <a href="https://github.com/meenakshi-rajesh-sec/EXFILGUARD-File-Exfiltration-Detection-System">EXFILGUARD-File-Exfiltration-Detection-System</a> | [OHSint](https://tryhackme.com/room/ohsint) |
 | Host-Based Dual-Layer Intrusion Detection |  <a href="https://github.com/meenakshi-rajesh-sec/EXFILGUARD-File-Exfiltration-Detection-System">EXFILGUARD-File-Exfiltration-Detection-System</a> | [Google Dorking](https://tryhackme.com/room/googledorking) |
 | Real-Time Alerting and Forensic Logging |  <a href="https://github.com/meenakshi-rajesh-sec/EXFILGUARD-File-Exfiltration-Detection-System">EXFILGUARD-File-Exfiltration-Detection-System</a> | [HTTP in Detail](https://tryhackme.com/room/httpindetail) |
@@ -84,6 +84,6 @@ Languages
 ## Projects
 
 - Multi-Stage XSS Attack Simulation
-- AITDS — AI-Driven Threat Detection System
+- <a href="https://github.com/meenakshi-rajesh-sec/AITDS-AI-Driven-Threat-Detection-System">AITDS-AI-Driven-Threat-Detection-System</a>
 -  <a href="https://github.com/meenakshi-rajesh-sec/EXFILGUARD-File-Exfiltration-Detection-System">EXFILGUARD-File-Exfiltration-Detection-System</a>
 - <a href="https://github.com/meenakshi-rajesh-sec/Cryptography-Firewall-Lab">Cryptography-Firewall-Lab</a>
